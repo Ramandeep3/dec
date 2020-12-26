@@ -214,3 +214,6 @@ function repOne() {
   repFour();
   repFive();
   repSix();
+  function add(){
+    return (x+y)
+  };
